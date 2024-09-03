@@ -1,8 +1,4 @@
-Here's a README for your Linux course repository, along with instructions for embedding the Linux logo:
-
----
-
-## Linux Course Labs Repository
+## Linux Course
 
 ![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
 
