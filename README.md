@@ -1,13 +1,13 @@
 ## Linux Course
 
-![Linux Logo](https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Tux.png" alt="Linux Logo" width="100">
 
 Welcome to the repository for my Linux course labs! This repository contains all the labs, exercises, and notes from my journey through the Linux course. Below is a summary of what you can find in this repository:
 
 ### Repository Structure
 
 - **/labs/**: Contains all the lab exercises organized by week or topic.
-- **linux_course.docx**: A document summarizing the key concepts covered throughout the course.
+- **linux course.docx**: A document summarizing the key concepts covered throughout the course.
 
 
 ### Resources
